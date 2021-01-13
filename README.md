@@ -4,6 +4,10 @@
 
 # Iniciando o projeto
 
+a. entrar no diretório e clonar o projeto 
+
+b. git clone https://github.com/SanzioWesley/Aluguel-de-Carros.git
+
 # Após clona o projeto acesse o diretório "desafioFinal/desafiofront" e execute os comandos abaixo
 
 a. npm install (comando para instalar as depêndencias)
